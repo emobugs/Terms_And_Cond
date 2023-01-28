@@ -38,6 +38,8 @@ html {
 .terms {
   height: 400px;
   padding: 70px;
+  overflow: scroll;
+  // text-overflow: clip;
 }
 
 .button-container {
